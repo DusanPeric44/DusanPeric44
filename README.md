@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Page doo Istocno Sarajevo<br>👯 I’m looking to collaborate on projects in Mobile and Desktop development<br>🌱 I’m currently learning Flutter as a multi-platform framework
+🔭 I’m currently working in Page doo Istocno Sarajevo<br>👯 I’m looking to collaborate on projects in Mobile and Backend development<br>🌱 I’m currently learning Flutter as a multi-platform framework
 
 
 ## 🌐 Socials:
