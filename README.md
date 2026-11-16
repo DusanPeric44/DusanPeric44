@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Mobile Developer.<br>👯 I’m looking to collaborate on projects in Mobile and Backend development<br>🌱 I’m currently learning Flutter as a multi-platform framework
+🔭 I’m a Full Stack Developer.<br>👯 I’m looking to collaborate on projects in Mobile and Full Stack development<br>🌱 I’m currently learning Flutter as a multi-platform framework
 
 
 ## 🌐 Socials:
